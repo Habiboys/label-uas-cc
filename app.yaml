@@ -1,5 +1,5 @@
 runtime: python39
-service: nouvalhabibie2211521020
+service: default 
 handlers:
   - url: /
     static_files: index.html
